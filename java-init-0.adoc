@@ -1,0 +1,25 @@
+# Java iniciante
+
+**1º)** Faça um resumo histórico sobre como surgiu a linguagem Java abordando o seu contexto em que foi criado juntamente com as principais personas envolvidas.
+
+**2º)** Por qual motivo a linguagem de programação Java recebeu esse respectivo nome?
+
+**3º)** Qual é o nome do mascote da linguagem Java e como o mesmo foi idealizado?
+
+**4º)** O Java surgiu visando resolver quais problemas na época em que ele foi idealizado?
+
+**5º)** Qual o diferencial do Java em comparação com a linguagem C/C++?
+
+**6º)** Em quais projetos é indicado usar Java e quais não é indicado usar Java?(Explane cada item)
+
+**7º)** Qual o diferencial do Java em comparação com a linguagem C/C++?
+
+**8º)** O Java é uma linguagem de baixo nível ou de alto nível? Explique detalhadamente o que é uma linguagem de baixo e alto nível e cite exemplos de linguagens
+
+**9º)** Crie uma linha do tempo com as respectivas versões do java juntamente com os seus recursos disponibilizados.
+
+**10º)** Quais são as linguagem presentes no Rank TIOBE ?
+
+**11º)** O que a comunidade Java espera do mesmo nos próximos anos?
+
+**12º)** O que é um framework? Cite 10 frameworks desenvolvidos em Java e explique qual o objetivo e intuito de cada um;
